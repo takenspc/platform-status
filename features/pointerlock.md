@@ -8,6 +8,7 @@ spec_url: https://w3c.github.io/pointerlock/
 spec_repo: https://github.com/w3c/pointerlock
 chrome_ref: 6753200417800192
 ie_ref: Pointer Lock (Mouse Lock)
+webkit_ref: Pointer Lock
 caniuse_ref: pointerlock
 ---
 
