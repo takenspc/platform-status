@@ -8,6 +8,7 @@ spec_url: http://w3c.github.io/deviceorientation/spec-source-orientation.html
 chrome_ref: 5874690627207168
 ie_ref: Device Orientation
 caniuse_ref: deviceorientation
+webkit_ref: DeviceOrientation Events
 ---
 
 Provides access to device's physical orientation.
