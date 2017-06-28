@@ -8,6 +8,7 @@ spec_url: https://w3c.github.io/gamepad/
 spec_repo: https://github.com/w3c/gamepad/
 chrome_ref: 5118776383111168
 ie_ref: GamePad API
+webkit_ref: Gamepad
 caniuse_ref: gamepad
 ---
 
