@@ -8,6 +8,7 @@ spec_url: https://w3c.github.io/manifest/
 spec_repo: https://github.com/w3c/manifest
 chrome_ref: 6488656873259008
 ie_ref: Web Application Manifest
+webkit_ref: Web App Manifest
 opera_ref:
 ---
 
